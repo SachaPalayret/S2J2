@@ -1,0 +1,3 @@
+#YO!
+
+puts "Bonjour, monde !"
